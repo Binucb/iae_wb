@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "wm-iae"
+  },
+  "targets": {
+    "wm-iae": {
+      "hosting": {
+        "iae": [
+          "wm-iae"
+        ]
+      }
+    }
+  }
+}

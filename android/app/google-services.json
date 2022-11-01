@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989579910601",
+    "project_id": "wm-iae",
+    "storage_bucket": "wm-iae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989579910601:android:c1dc76f55c8270afe59c18",
+        "android_client_info": {
+          "package_name": "com.example.wm_iae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989579910601-t6056ajh0g52tol8d9n8ca03s40af4ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrEDoz-HVY-hwz5Tjj9RcBR1St3iG8X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989579910601-t6056ajh0g52tol8d9n8ca03s40af4ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
